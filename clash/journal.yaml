@@ -1,0 +1,7 @@
+# NAME: journal
+payload:
+  - DOMAIN-SUFFIX,aps.org
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,science.org
+  - DOMAIN-SUFFIX,scitation.org
+  - DOMAIN-SUFFIX,acs.org
