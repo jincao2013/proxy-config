@@ -1,3 +1,4 @@
 # NAME: openai
 payload:
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,bard.google.com
